@@ -1,1 +1,6 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="infer_button_text">推論開始</string>
+    <string name="result_default_text">結果がここに表示されます</string>
+</resources>
